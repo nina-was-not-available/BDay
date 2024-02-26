@@ -15,7 +15,9 @@ const App = () => {
                 ))}
             </div>
             <div className={'content'}>
-                <h1>HAPPY BIRTHDAY!!! 🥳🥳🥳</h1>
+                <h1>HAPPY BIRTHDAY!!!
+                    <h1>🥳🥳🥳</h1>
+                </h1>
                 <div className={'video'}>
                     <iframe width={'100%'} height={'100%'} src="https://www.youtube.com/embed/d1W7vaWfUFs?si=KUfXBJOayDi3p9da"
                             title="YouTube video player" frameBorder="0"
