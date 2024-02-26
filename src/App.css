@@ -39,7 +39,14 @@
 }
 
 .content h1 {
+    text-align: center;
     text-shadow: 0 0 10px #f5c320;
     font-size: 48px;
     color: #68009f;
+}
+
+.video {
+    max-width: 560px;
+    width: 100%;
+    aspect-ratio: 2/1.2;
 }
